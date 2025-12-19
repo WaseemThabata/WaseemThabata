@@ -1,6 +1,6 @@
 # Waseem Thabata
 
-**Duke MQM '25 | Data Science & Machine Learning | Business Intelligence**
+**Duke's Fuqua School of Business MQM '26 | University of Notre Dame BBA: Business Analytics '23 |Data Science & Machine Learning | Business Intelligence**
 
 Graduate student at Duke's Fuqua School of Business specializing in machine learning, computer vision, and business intelligence. Building production-grade ML systems for real-world impact.
 
