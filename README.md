@@ -6,7 +6,7 @@ Graduate student at Duke's Fuqua School of Business specializing in machine lear
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 ### [NBA Injury Risk Modeling](https://github.com/WaseemThabata/nba-injury-prediction)
 XGBoost-based injury prediction model for NBA teams with financial impact analysis. Achieved 0.60 balanced accuracy using workload metrics and historical injury data.
@@ -20,7 +20,7 @@ PyTorch transfer learning pipeline for safe/unsafe image classification. Product
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages**: Python, R, SQL  
 **ML/DL**: PyTorch, XGBoost, scikit-learn, TensorFlow  
@@ -29,7 +29,7 @@ PyTorch transfer learning pipeline for safe/unsafe image classification. Product
 
 ---
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseem-thabata)
 
